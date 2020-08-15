@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-%    EMF Lab 3: Impedance Matching
+%    Tuning Calculator
 %    Jodlet Saintcyr and Jonathan Lundquist
 %    March 29, 2020
 %
